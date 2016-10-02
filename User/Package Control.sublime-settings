@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownFootnotes",
+		"Material Theme",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Terminal",
+		"WakaTime"
+	]
+}

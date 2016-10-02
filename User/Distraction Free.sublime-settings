@@ -1,0 +1,9 @@
+{
+    "line_numbers": true,
+    "gutter": true,
+    "draw_centered": false,
+    "wrap_width": 0,
+    "word_wrap": true,
+    "scroll_past_end": true,
+    "overlay_scroll_bars": "enabled",
+}
