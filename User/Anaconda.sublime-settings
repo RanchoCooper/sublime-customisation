@@ -209,7 +209,7 @@
     */
     "autoformat_ignore":
     [
-        "E309"
+        "E309",
     ],
 
     /*
@@ -329,11 +329,15 @@
     "pep8_ignore":
     [
         "E302",
+        "E305",
         "E501",
         "E502",
         "E309",
         "E127",
-        "E221"
+        "E221",
+        "E203",
+        "E222",
+        "E226"
     ],
 
     // Maximum line length for pep8
